@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacereCognition</string>
+    <string name="please_enter_the_authorization">请授权!</string>
+    <string name="must_get_camera_permission">必须获取相机权限才能进行身份验证!</string>
+</resources>

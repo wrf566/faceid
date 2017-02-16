@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/liveness_layout.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_layout.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/liveness_layout2.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_layout2.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/liveness_detection_step.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/layout/liveness_detection_step.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/layout/leak_canary_leak_row.xml"
+    }
+]

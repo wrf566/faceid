@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/anim/liveness_leftout.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_leftout.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/anim/liveness_rightin.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/anim/liveness_rightin.xml"
+    }
+]

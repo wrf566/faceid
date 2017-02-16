@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable/liveness_mouth_open_closed.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_mouth_open_closed.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable/liveness_head_yaw.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_head_yaw.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable/leak_canary_toast_background.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.5/res/drawable/leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable/liveness_eye_open_closed.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_eye_open_closed.xml"
+    },
+    {
+        "merged": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/res/merged/androidTest/debug/drawable/liveness_head_pitch.xml",
+        "source": "/Users/wrf/AndroidProject/VR/MyApplication/livenessLib/build/intermediates/bundles/debug/res/drawable/liveness_head_pitch.xml"
+    }
+]
